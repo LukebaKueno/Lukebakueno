@@ -1,5 +1,5 @@
 
-![MasterHead](https://static.vecteezy.com/system/resources/previews/000/678/463/original/programming-doodle-on-blue-background.jpg)
+
 <h1 align="center">Hi 👋, I'm Lukeba Coder</h1>
 <h3 align="center">A passionate junior web developer, <br>my goal is to become a versatile: <br>1)full-stack web developer; <br>2)software engineer; <br>3)And a cybersecurity specialist.</h3>
 <img alt="coding" src="https://th.bing.com/th/id/R.21116158daaeb1459b4ec0758505e1ad?rik=ymQdzmyYITrBnQ&pid=ImgRaw&r=0">
